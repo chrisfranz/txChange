@@ -1,0 +1,6 @@
+type Link {
+  id: ID! @unique
+  email: String!
+  password: String!
+  home_country: String!
+}
