@@ -50,7 +50,7 @@ class Profile extends Component {
         }}} 
           text='Sign Up' 
         /> 
-        /* <Text></Text>
+        <Text></Text>
         <Button 
           style={{ container: { 
             backgroundColor: 'rgb(0, 188, 212)', 
